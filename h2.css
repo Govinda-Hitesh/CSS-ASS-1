@@ -1,0 +1,15 @@
+body{
+    color: red;
+}
+.h11{
+    color: brown;
+}
+.h12{
+    text-decoration: underline;
+}
+.h21{
+    letter-spacing: 4px;
+}
+p{
+    color: rgb(153, 153, 12);
+}
